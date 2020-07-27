@@ -1,0 +1,15 @@
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/netcoreapp3.1/mathstests.csprojAssemblyReference.cache
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/netcoreapp3.1/mathstests.AssemblyInfoInputs.cache
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/netcoreapp3.1/mathstests.AssemblyInfo.cs
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/netcoreapp3.1/mathstests.csproj.CoreCompileInputs.cache
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/bin/Debug/netcoreapp3.1/mathstests.deps.json
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/bin/Debug/netcoreapp3.1/mathstests.runtimeconfig.json
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/bin/Debug/netcoreapp3.1/mathstests.runtimeconfig.dev.json
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/bin/Debug/netcoreapp3.1/mathstests.dll
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/bin/Debug/netcoreapp3.1/mathstests.pdb
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/bin/Debug/netcoreapp3.1/maths.dll
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/bin/Debug/netcoreapp3.1/maths.pdb
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/netcoreapp3.1/mathstests.csproj.CopyComplete
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/netcoreapp3.1/mathstests.dll
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/netcoreapp3.1/mathstests.pdb
+/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/netcoreapp3.1/mathstests.genruntimeconfig.cache

@@ -1,0 +1,57 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/mathstests.csproj",
+    "projectName": "mathstests",
+    "projectPath": "/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/mathstests.csproj",
+    "outputPath": "/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/",
+    "projectStyle": "PackageReference",
+    "originalTargetFrameworks": [
+      "netcoreapp3.1"
+    ],
+    "sources": {
+      "https://api.nuget.org/v3/index.json": {},
+      "https://pkgs.dev.azure.com/mercle/_packaging/xperters/nuget/v3/index.json": {}
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "projectReferences": {
+          "/Users/ossentoo/Documents/source/github/ossentoo/testing/maths/maths.csproj": {
+            "projectPath": "/Users/ossentoo/Documents/source/github/ossentoo/testing/maths/maths.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp3.1": {
+      "dependencies": {
+        "xunit": {
+          "target": "Package",
+          "version": "[2.4.1, )"
+        }
+      },
+      "imports": [
+        "net461",
+        "net462",
+        "net47",
+        "net471",
+        "net472",
+        "net48"
+      ],
+      "assetTargetFallback": true,
+      "warn": true,
+      "frameworkReferences": {
+        "Microsoft.NETCore.App": {
+          "privateAssets": "all"
+        }
+      },
+      "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100-preview.6.20318.15/RuntimeIdentifierGraph.json"
+    }
+  }
+}
