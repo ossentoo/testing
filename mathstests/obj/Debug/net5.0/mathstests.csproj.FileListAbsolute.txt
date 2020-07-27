@@ -1,4 +1,0 @@
-/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/net5.0/mathstests.csprojAssemblyReference.cache
-/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/net5.0/mathstests.AssemblyInfoInputs.cache
-/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/net5.0/mathstests.AssemblyInfo.cs
-/Users/ossentoo/Documents/source/github/ossentoo/testing/mathstests/obj/Debug/net5.0/mathstests.csproj.CoreCompileInputs.cache
